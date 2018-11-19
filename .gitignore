@@ -1,0 +1,6 @@
+.DS_Store
+.idea/*
+backend/data/*
+backend/config/*
+backend/server_config/*
+*.pyc
